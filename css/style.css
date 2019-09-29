@@ -48,5 +48,6 @@ figcaption {
 }
 
 #details a:visited {
-  color: blac
+  color: black;
+  text-decoration: underline;
 }
