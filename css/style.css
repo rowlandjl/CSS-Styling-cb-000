@@ -38,3 +38,10 @@ figcaption {
 #logo h2 {
   font-family: cursive;
 }
+
+/* Pseudo Selector */
+
+#details a:link {
+  color: black;
+  text-decoration: none;
+}
